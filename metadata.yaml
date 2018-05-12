@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Antero_de_Quental
     - http://en.wikipedia.org/wiki/Antero_de_Quental
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26776#A-philosophia-da-natureza-dos-naturalistas
 gutenberg_issued: '2008-10-04'
 gutenberg_type: Text
 identifiers:
